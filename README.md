@@ -15,4 +15,4 @@ After collecting the latest covid data run the cells of jupyter notebook ```matp
 
 Animator saves file as im.mp4
 
-![file](covid19-state-race.gif)
+![file](15_fps.gif)
